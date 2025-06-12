@@ -1,3 +1,5 @@
+01. About Web Application
+
 This is the main frontend file for the Advanced URL Security Checker web application. It provides a visually engaging, responsive user interface for analyzing URLs across multiple security parameters such as SSL, malware, reputation, performance, and WHOIS data. The interface includes dynamic tabs, progress indicators, and result cards for intuitive and comprehensive results visualization.
 
 Key Features:
@@ -23,3 +25,18 @@ HTTP Headers
 WHOIS Information
 
 Fully styled with responsive design principles using pure CSS
+
+
+02. About APK file
+
+This APK is the Android version of the URL Security Checker tool. It allows users to input and analyze website URLs on their mobile devices. The app offers a streamlined mobile experience for URL threat detection, SSL validation, and general domain information retrieval.
+
+Highlights:
+
+Supports URL scanning directly from Android devices
+
+Includes core security checks similar to the web version
+
+Simple and user-friendly interface
+
+Ideal for mobile cybersecurity analysis on the go
