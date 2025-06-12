@@ -81,6 +81,8 @@ Navigate through different **tab sections** to explore detailed findings:
 ### 5. Review and Act  
 Based on the results, users can assess whether it's safe to proceed to the website or take precautions.
 
+![URL Checker UI](https://github.com/user-attachments/assets/0971a77b-77d4-4cce-a976-f0b80e93d088)
+
 ---
 
 
